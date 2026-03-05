@@ -1,9 +1,9 @@
 {
-  "version": "2.1",
+  "version": "2.2",
   "url": "https://drive.google.com/file/d/1tXpksmVcAFvNj1zk0NusL030M9qstWLS/view?usp=sharing",
   "changelog": [
-    "- Menambahkan fitur Dark Mode",
-    "- Memperbaiki bug saat export file",
+    "- Generate angka acak, kolom lama live, min dellay, max delay ",
+    "- Memperbaiki bug deteksi live saat app close, dan open kembali",
     "- Peningkatan performa aplikasi"
   ]
 }
