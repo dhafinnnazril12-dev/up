@@ -1,9 +1,10 @@
 {
-  "version": "2.2",
-  "url": "https://drive.google.com/file/d/1_MJwFNy_1Pg0kgAeBhme-XJLSvazOgyD/view?usp=sharing",
+  "version": "2.3",
+  "url": "https://drive.usercontent.google.com/u/0/uc?id=1Y5riiOGL1gvqrf0755P7iY_kNC4jYoXP&export=download",
   "changelog": [
-    "- Generate angka acak, kolom lama live, min dellay, max delay ",
-    "- Memperbaiki bug deteksi live saat app close, dan open kembali",
-    "- Peningkatan performa aplikasi"
+      "- Filter thumbnail >2MB otomatis ditolak saat import di Autopilot",
+      "- Fitur toggle Monetisasi per sesi live (tombol di action bar)",
+      "- Monetisasi berjalan di semua mode rolling, mengikuti pilihan user",
+      "- Aman untuk semua channel termasuk yang belum monetisasi"
   ]
 }
