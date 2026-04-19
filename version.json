@@ -1,10 +1,8 @@
 {
-  "version": "2.3",
-  "url": "https://drive.usercontent.google.com/u/0/uc?id=1Y5riiOGL1gvqrf0755P7iY_kNC4jYoXP&export=download",
+  "version": "2.4",
+  "url": "https://drive.usercontent.google.com/download?id=168KptFeiCk37pMZdyaVj2BlIOz88QSZz&export=download&authuser=0",
   "changelog": [
-      "- Filter thumbnail >2MB otomatis ditolak saat import di Autopilot",
-      "- Fitur toggle Monetisasi per sesi live (tombol di action bar)",
-      "- Monetisasi berjalan di semua mode rolling, mengikuti pilihan user",
-      "- Aman untuk semua channel termasuk yang belum monetisasi"
+    "Penyempurnaan fitur monetisasi",
+    "Peningkatan performa tool"
   ]
 }
